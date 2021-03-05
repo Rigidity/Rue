@@ -1,0 +1,30 @@
+{
+  "name": "rue-lang",
+  "version": "1.0.0",
+  "description": "Rue is a general purpose programming language.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rigidity/Rue.git"
+  },
+  "keywords": [
+	  "language", "general purpose", "rue", "parser", "transpiler"
+  ],
+  "contributors": [
+	{
+		"name": "Rigidity"
+	},
+	{
+		"name": "pxpcandy"
+	}
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rigidity/Rue/issues"
+  },
+  "homepage": "https://github.com/Rigidity/Rue#readme",
+  "dependencies": {
+    "rigidparsing": "^3.1.2"
+  }
+}
